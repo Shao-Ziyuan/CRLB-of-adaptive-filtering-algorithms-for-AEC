@@ -1,6 +1,7 @@
 # CRLB-of-adaptive-filtering-algorithms-for-AEC
-The code is user for an essay, which was submitted to the journal "Signal Processing" with the title "Cramer-Rao Lower Bound of adaptive filtering algorithms for acoustic echo cancellation". <br>
+The code is user for an essay, which was accpeted at the journal "Signal Processing" with the title "Cramer-Rao Lower Bound of adaptive filtering algorithms for acoustic echo cancellation". <br>
 Authors: Zongsheng Zheng, Ziyuan Shao, Yi Yu, Lu Lu and Shilin Gao.<br>
+Code Contents:<br>
 -main<br>
 --main.m<br>
 --8k512s.mat<br> 
